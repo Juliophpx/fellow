@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tudominio.miapp"  
+      "bundleIdentifier": "com.hellofellow.app"  
     },
     "android": {
       "adaptiveIcon": {
