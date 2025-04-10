@@ -1,8 +1,16 @@
 {
-    "build": {
+  "build": {
+    "preview": {
       "ios": {
-        "workflow": "managed"
+        "simulator": true
       }
-    }
+    },
+    "development": {
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      }
+    },
+    "production": {}
   }
-  
+}
